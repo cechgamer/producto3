@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "productoBackend", "producto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "productoAPI", "productoAPI\productoAPI.csproj", "{74AE1C79-5580-4830-BD60-E71CB22FA81F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api2", "Api2\Api2.csproj", "{7C606321-8483-4172-A7B5-B2724BB03476}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{74AE1C79-5580-4830-BD60-E71CB22FA81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74AE1C79-5580-4830-BD60-E71CB22FA81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74AE1C79-5580-4830-BD60-E71CB22FA81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C606321-8483-4172-A7B5-B2724BB03476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C606321-8483-4172-A7B5-B2724BB03476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C606321-8483-4172-A7B5-B2724BB03476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C606321-8483-4172-A7B5-B2724BB03476}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
